@@ -1,0 +1,10 @@
+{
+    "nombre": "Fernando Cardona Giraldo",
+    "edad": 20,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos": ["Fútbol", "Series", "Viajar", "Volar en parapente", "Comida picante"],
+    "noGustos": ["El calor", "Filas largas", "Despertarse temprano"],
+    "foto": "https://www.univalle.edu.co/media/k2/items/cache/9845d3c220e6e5674241ce626189d694_M.jpg"
+}
+  
