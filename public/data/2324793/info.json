@@ -1,0 +1,11 @@
+{
+    "nombre": "Kevin Ariel Ramirez",
+    "edad": 19,
+    "carrera": "Ingeniería de sistemas",
+    "semestre": 6,
+    "gustos": ["Pólvora", "Motos", "Videojuegos", "Carros"],
+    "noGustos": ["Estudiar", "Despertarse temprano", "Hablar en público"],
+    "foto": "https://files.winsports.co/assets/public/inline-images/WhatsApp%20Image%202023-05-10%20at%208.37.58%20PM.jpeg"
+}
+
+  
