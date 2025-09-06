@@ -1,0 +1,9 @@
+{
+    "nombre": "Pablo Becerra",
+    "edad": 21,
+    "carrera": "Ingeniería de sistemas",
+    "semestre": 7,
+    "gustos": ["UFC", "Comer", "Videojuegos"],
+    "noGustos": ["Despertarse temprano"],
+    "foto": "https://www.ufcespanol.com/images/styles/background_image_sm/s3/2025-06/6242025-Charles-Oliveira-GettyImages-1497572985.jpeg?h=caf26d13&itok=7_4ztT73"
+}
