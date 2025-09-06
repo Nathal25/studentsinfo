@@ -1,0 +1,11 @@
+{
+    "nombre": "Nicole Narvaez Medina",
+    "edad": 23,
+    "carrera": "Ingeniería de sistemas",
+    "semestre": 6,
+    "gustos": ["Ver series", "Dormir", "Salir con amigos", "Comer"],
+    "noGustos": ["Transporte público", "Despertarse temprano", "Hablar en público"],
+    "foto": "https://pbs.twimg.com/media/GLV5Rb7WMAACisi.jpg:large"
+}
+
+  
