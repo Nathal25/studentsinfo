@@ -1,0 +1,9 @@
+{
+    "nombre": "John Jaider Ramos Gaviria",
+    "edad": 21,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos": ["Motos", "Videojuegos", "Lugares frios","Futbol"],
+    "noGustos": ["Ruidos fuertes", "Lugares calurosos","Pescado", "Deportivo cali"],
+    "foto": "https://pbs.twimg.com/media/EY69CjnWsAACics?format=jpg&name=360x360"
+}
