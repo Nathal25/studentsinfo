@@ -1,0 +1,9 @@
+{
+    "nombre": "Daniel Cárdenas Ortiz",
+    "edad": 25,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 5,
+    "gustos": ["Michael Jackson", "Anime", "Juegos en Línea","Fútbol"],
+    "noGustos": ["Uyucos", "Chontaduro", "Multitud de personas","No tener dinero para mecatear"],
+    "foto": "https://wallpapers.com/images/hd/itachi-phone-in-purple-bjbjf7xzm59koqq1.jpg"
+}
