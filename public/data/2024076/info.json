@@ -1,0 +1,9 @@
+{
+    "nombre": "Daniel Cárdenas",
+    "edad": 25,
+    "carrera": "Ingeniería de sistemas",
+    "semestre": 5,
+    "gustos": ["Ánime", "Videojuegos", "Programar", "Fútbol", "Michael Jackson"],
+    "noGustos": ["Uyucos", "Multitudes", "Hacer Filas", "Chontaduro :/"],
+    "foto": "https://wallpapers.com/images/hd/the-light-can-sometimes-be-mistaken-for-darkness-itachi-cy3fku5ausy8b5no.jpg"
+}
